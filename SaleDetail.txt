@@ -1,0 +1,209 @@
+
+ ----------------- 
+ 
+  
+ Name of the Customer :se;va 
+ Date & Time : 10-10-2023 18:22:29
+ --- purchased Products ---
+ Name : Apple QTY :5 Price : 150.0
+ Discounted : 150.0Total Bill Price : 350.0
+ 
+ -----------------
+
+ ----------------- 
+ 
+  
+ Name of the Customer :sabari 
+ Date & Time : 10-10-2023 18:22:29
+ --- purchased Products ---
+ Name : Apple QTY :1 Price : 30.000002
+ Discounted : 30.000002Total Bill Price : 70.0
+ 
+ -----------------
+
+ ----------------- 
+ 
+  
+ Name of the Customer :raja 
+ Date & Time : 10-10-2023 18:22:29
+ --- purchased Products ---
+ Name : Tomato QTY :4 Price : 48.0
+ Discounted : 48.0Total Bill Price : 192.0
+ 
+ -----------------
+
+ ----------------- 
+ 
+  
+ Name of the Customer :don 
+ Date & Time : 10-10-2023 18:22:29
+ --- purchased Products ---
+ Name : Coca Cola QTY :34 Price : 51.0
+ Name : Coca Cola QTY :3 Price : 4.5
+ Name : Pepsi QTY :2 Price : 3.0
+ Discounted : 58.5Total Bill Price : 526.5
+ 
+ -----------------
+
+ ----------------- 
+ 
+  
+ Name of the Customer :mano 
+ Date & Time : 10-10-2023 18:22:29
+ --- purchased Products ---
+ Name : Carrot QTY :2 Price : 24.0
+ Name : Pepsi QTY :1 Price : 1.5
+ Discounted : 25.5Total Bill Price : 109.5
+ 
+ -----------------
+
+ ----------------- 
+ 
+  
+ Name of the Customer :ravi 
+ Date & Time : 10-10-2023 18:22:29
+ --- purchased Products ---
+ Name : Tomato QTY :2 Price : 24.0
+ Name : Pomato QTY :2 Price : 32.0
+ Discounted : 56.0Total Bill Price : 224.0
+ 
+ -----------------
+
+ ----------------- 
+ 
+  
+ Name of the Customer :selva 
+ Date & Time : 10-10-2023 18:35:57
+ --- purchased Products ---
+ Name : Mango QTY :3 Price : 18.0
+ Discounted : 18.0Total Bill Price : 42.0
+ 
+ -----------------
+
+ ----------------- 
+ 
+  
+ Name of the Customer :selva 
+ Date & Time : 10-10-2023 18:49:54
+ --- purchased Products ---
+ Name : Apple QTY :3 Price : 90.0
+ Discounted : 90.0Total Bill Price : 210.0
+ 
+ -----------------
+
+ ----------------- 
+ 
+  
+ Name of the Customer :red 
+ Date & Time : 10-10-2023 18:52:44
+ --- purchased Products ---
+ Name : Orange QTY :2 Price : 30.000002
+ Name : Carrot QTY :6 Price : 72.0
+ Discounted : 102.0Total Bill Price : 358.0
+ 
+ -----------------
+
+ ----------------- 
+ 
+  
+ Name of the Customer :se 
+ Date & Time : 10-10-2023 18:55:00
+ --- purchased Products ---
+ Name : Peach QTY :6 Price : 126.00001
+ Discounted : 126.00001Total Bill Price : 294.0
+ 
+ -----------------
+
+ ----------------- 
+ 
+  
+ Name of the Customer :ytfd 
+ Date & Time : 10-10-2023 18:55:00
+ --- purchased Products ---
+ Name : Orange QTY :7 Price : 105000.01
+ Discounted : 105000.01Total Bill Price : 245000.0
+ 
+ -----------------
+
+ ----------------- 
+ 
+  
+ Name of the Customer :sdfgh 
+ Date & Time : 10-10-2023 19:01:18
+ --- purchased Products ---
+ Name : Watermelon juice QTY :69 Price : 621.0
+ Discounted : 621.0Total Bill Price : 5589.0
+ 
+ -----------------
+
+ ----------------- 
+ 
+  
+ Name of the Customer :selva 
+ Date & Time : 10-10-2023 20:13:51
+ --- purchased Products ---
+ Name : apple QTY :1 Price : 3.0
+ Name : Peach QTY :10 Price : 210.00002
+ Name : Potato QTY :20 Price : 280.0
+ Discounted : 493.0Total Bill Price : 1617.0
+ 
+ -----------------
+
+ ----------------- 
+ 
+  
+ Name of the Customer :vishnu 
+ Date & Time : 11-10-2023 11:25:09
+ --- purchased Products ---
+ Name : Tomato QTY :10 Price : 160.0
+ Discounted : 160.0Total Bill Price : 640.0
+ 
+ -----------------
+
+
+
+ ----------------- 
+ 
+  
+ Name of the Customer :selva 
+ Date & Time : 11-10-2023 21:58:10
+ --- purchased Products ---
+ Name : banana QTY :12 Price : 10.8
+ Name : Carrot QTY :3 Price : 36.0
+ Name : Tomato QTY :2 Price : 32.0
+ Discounted : 78.8Total Bill Price : 297.2
+ 
+ -----------------
+
+ ----------------- 
+ 
+  
+ Name of the Customer :don 
+ Date & Time : 11-10-2023 21:58:10
+ --- purchased Products ---
+ Name : Tomato QTY :2 Price : 32.0
+ Discounted : 32.0Total Bill Price : 128.0
+ 
+ -----------------
+
+ ----------------- 
+ 
+  
+ Name of the Customer :kasi 
+ Date & Time : 11-10-2023 22:14:16
+ --- purchased Products ---
+ Name : biscuit QTY :10 Price : 30.000002
+ Discounted : 30.000002Total Bill Price : 70.0
+ 
+ -----------------
+
+ ----------------- 
+ 
+  
+ Name of the Customer :tyh 
+ Date & Time : 11-10-2023 22:14:16
+ --- purchased Products ---
+ Name : sushi QTY :4 Price : 1.8000001
+ Discounted : 1.8000001Total Bill Price : 34.2
+ 
+ -----------------
